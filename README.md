@@ -28,4 +28,4 @@ Concatenating_Text_String.py - code for topic 8
 Topic 9 - if statements.docx - Explaining WWH of if statements.
 if_statements.py - code for topic 9.
 Topic 10 - Comparison Operators.docx - Explaining WWH of all the different operators and its use cases.
-Comparison_Operators.py - Code for topic 10.
+Comparison_Operators.py - Code for topic 10..
