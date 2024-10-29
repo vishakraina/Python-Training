@@ -46,3 +46,7 @@ if_statements.py - code for topic 9.
 Topic 10 - Comparison Operators.docx - Explaining WWH of all the different operators and its use cases.
 
 Comparison_Operators.py - Code for topic 10..
+
+Topic 11 - else and elif.docx - WWH of else and elif
+
+else_and_elif.py - code for topic 11
