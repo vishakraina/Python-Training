@@ -50,3 +50,24 @@ Comparison_Operators.py - Code for topic 10..
 Topic 11 - else and elif.docx - WWH of else and elif
 
 else_and_elif.py - code for topic 11
+
+Topic 12 - Testing Sets of Conditions.docx - Explaining conditionals ( and , or ) with multiple conditions.
+
+Testing_Sets_of_Conditions.py- Code for Topic 12
+
+Topic 13 - if_statements_nested.docx - WWH for nested if statements.
+
+Nested_if_statements.py - Code for nested if statements
+
+Topic 14 - Comments.docx - WWH of Comments
+
+Comments.py - Code of Comments
+
+Topic 15 - Lists.docx - WWH of Lists
+
+Lists.py - Code for lists.
+
+Topic 16 - Adding and Changing Elements.docx - WWH of adding and changing in lists.
+
+Lists_Adding_and_changing_elements.py - Code for topic 16
+
