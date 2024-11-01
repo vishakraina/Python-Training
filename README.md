@@ -71,3 +71,19 @@ Topic 16 - Adding and Changing Elements.docx - WWH of adding and changing in lis
 
 Lists_Adding_and_changing_elements.py - Code for topic 16
 
+Topic 17 - Lists Taking slices out of them.docx - WWH of SLicing a list
+
+List_Slicing_in_Python.py - Slicing code
+
+Topic 18 - Lists Deleting and removing elements.docx - WWH of deleting and removing
+
+Lists_Taking_Slices_Out_of_Them.py - Code for deleting and removing
+
+Topic 19 - Lists Popping Elements.docx - WWH of popping elements
+
+Lists_Popping_Elements.py - Code for same
+
+Topic 20 - Tuples.docx - WWH of Tuples
+
+Tuples.py - Code for tuples.
+
