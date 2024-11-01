@@ -1,7 +1,7 @@
-# Python-Training
+                  # Python-Training
 Python Training with exercises on every module.
 
-27/10/2024
+                    27/10/2024
 
 Topic 1 - print().docx - Explaining What,Why and How of print function 
 
@@ -11,7 +11,7 @@ Topic 2 - variable for strings.docx - Explains What,Why & How of creating variab
 
 variable_for_strings.py - It has code to practice Topic 2.
 
-28/10/2024
+                    28/10/2024
 
 Topic 3 - variable for numbers.docx - Explaining What,Why & How of using variables for numbers.
 
@@ -29,7 +29,7 @@ Topic 6 - Math_Expresions_Unfamiliar_Operators.docx - Explaining What,Why & How 
 
 Math_Expressions_Unfamiliar_Operators.py - Respective code for Topic 6
 
-29/10/2024
+                    29/10/2024
 
 Topic 7 - Math Expressions Eliminating Ambiguity.docx - Explaining how and where to use brackets
 
@@ -51,6 +51,8 @@ Topic 11 - else and elif.docx - WWH of else and elif
 
 else_and_elif.py - code for topic 11
 
+                    30/10/2024
+
 Topic 12 - Testing Sets of Conditions.docx - Explaining conditionals ( and , or ) with multiple conditions.
 
 Testing_Sets_of_Conditions.py- Code for Topic 12
@@ -70,6 +72,8 @@ Lists.py - Code for lists.
 Topic 16 - Adding and Changing Elements.docx - WWH of adding and changing in lists.
 
 Lists_Adding_and_changing_elements.py - Code for topic 16
+
+                    31/10/2024
 
 Topic 17 - Lists Taking slices out of them.docx - WWH of SLicing a list
 
