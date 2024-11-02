@@ -91,3 +91,39 @@ Topic 20 - Tuples.docx - WWH of Tuples
 
 Tuples.py - Code for tuples.
 
+                    1/11/2024
+
+Topic 21 - for loops.docx - WWH of for loops
+
+for_loops.py - Code explaining for loops.
+
+                    2/11/2024
+
+Topic 22 - for loops nested.docx - WWH of nested for loops
+
+for_loops_nested.py - Code for nested for loops.
+
+Topic 23 - Getting information from the user and converting strings and numbers.docx - WWH of input function and converting to strings and numbers.
+
+Getting_Info_from_user_and_Converting_strings_numbers.py - Code for same.
+
+Topic 24 - Changing Case.docx - WWH of upper, lower and title case.
+
+Changing_case.py - Code for same
+
+Topic 25 - What are Dictionaries.docx - WWH of dictionaries.
+
+What_are_Dictionaries.py - Code for dictionaries.
+
+Topic 26 - How to code dictionary.docx - WWH of how to code a dictionaries.
+
+Coding_a_dictionaries.py - Code of how to code a dictionary.
+
+Topic 27 - Picking Info from dictionaries.docx - WWH of picking info from key, value paies in dictionaries.
+
+Picking_info_from_dictionaries.py - Code for pulling info from dictionaries.
+
+Topic 28 - Versatality of Keys and Values.docx - WWH of key values's versatality
+
+Versatality_Key_Value_Dictionaries.py - Code for how keys and values can be strings or numbers.
+
