@@ -127,3 +127,23 @@ Topic 28 - Versatality of Keys and Values.docx - WWH of key values's versatality
 
 Versatality_Key_Value_Dictionaries.py - Code for how keys and values can be strings or numbers.
 
+                    3/11/2024
+Topic 29 - Dictionaries Adding items.docx - WWH of Adding Items to dictionaries.
+
+Adding_Items_to_Dictionaries.py - code for same.
+
+Topic 30 - Removing and Changing Items in Dictionaries.docx - WWH of Removing and Changing items in dictionaries.
+
+Removing_Changing_Items_Dictionaries.py - code for same.
+
+Topic 31 - Looping Through Values in Python Dictionaries.docx - WWH of getting values of dictionaries.
+
+Looping_Values_Dictionaries.py - Code of same.
+
+Topic 32 - Looping Through Keysin Python Dictionaries.docx - WWH of getting keys of dictionaries.
+
+Looping_Keys_Dictionaries.py - Code of same.
+
+Topic 33 - Looping Through Keys Values in Python Dictionaries.docx - WWH of getting keys values of dictionaries.
+
+Looping_Keys_Values_Dictionaries.py - Code for same.
