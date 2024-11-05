@@ -147,3 +147,45 @@ Looping_Keys_Dictionaries.py - Code of same.
 Topic 33 - Looping Through Keys Values in Python Dictionaries.docx - WWH of getting keys values of dictionaries.
 
 Looping_Keys_Values_Dictionaries.py - Code for same.
+
+                    4/11/2024
+Topic 34 - Creating a list of dictionaries in python.docx - WWH of creating dictionaries 
+
+Creating_list_of_dictionaries.py - Code of same
+
+Topic 35 - Picking Information from list of dictionaries in python.docx - WWH of Retrieving info from lists in dictionaries.
+
+Retrieving_Info_from_list_of_dictionaries.py - Code for same.
+
+Topic 36 - Adding a new dictionary to list of dictionaries.docx - WWH of adding a new dictionary to a list of dictionaries.
+
+Adding_a_new_dictionary_to_a_list_of_dictioanries.py - Code of same.
+
+Topic 37 - Create a dictionary that contains lists.docx - WWH of creating a dictionary that contains a lists
+
+Create_a_dictionary_that_contains_lists.py - Code of same
+
+Topic 38 - Get Information Out of list in a dictionary.docx - WWH of getting info out of list in a dictionary 
+
+Get_Information_Out_of_a_list_in_a_dictiomary.py - Code of same
+
+                    5/11/2024
+Topic 39 - Create a dictionary that contains a dictionary.docx - WWH of creating a ductionary that contains a dictionary
+
+Create_dictionary_that_contains_a_dictionary.py - Code of same
+
+Topic 40 -Get Information out of dictionary within another dictionary.docx - WWH of retrieving info out of dictionary within another ductionary
+
+Get_Info_Out_of_dictionary_within_another_dictionary.py - Code of same.
+
+Topic 41 - Functions.docx - WWH of functions
+
+Functions.py - Code of same
+
+Topic 42 - Functions Passing them information.docx - WWH of passing information during calling the functions
+
+Functions_Passing_Information.py - Code of same
+
+Topic 43 - Functions Passing Information with Keyword Arguments.docx- WWH of passing information with keyword arguments.
+
+Functions_passing_info_with_keyword_arguments.py- Code of same
