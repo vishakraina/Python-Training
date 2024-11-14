@@ -189,3 +189,157 @@ Functions_Passing_Information.py - Code of same
 Topic 43 - Functions Passing Information with Keyword Arguments.docx- WWH of passing information with keyword arguments.
 
 Functions_passing_info_with_keyword_arguments.py- Code of same
+
+                  November 6
+                  
+44: Functions: Assigning a default value to a parameter
+
+Function_Assigning_Default_Values_to_Parameter.py
+
+45: Functions: Mixing positional and keyword arguments
+
+Function_Mixing_Positional_and_Keyword_Arguments.py
+
+46: Functions: Dealing with an unknown number of arguments
+
+Functions_Dealing_with_unknown_number_of_arguments.py
+
+47: Functions: Passing information back from them
+
+Functions_Passing_info_back_from_them.py
+
+                    November 7
+
+48: Using functions as variables
+
+Using_Functions_as_variables.py
+
+49: Functions: Local vs. global variables
+
+Functions_Local_vs_Global_variables.py
+
+50: Functions within functions
+
+Functions_within_Functions.py
+
+51: While loops
+
+While_loops.py
+              
+                      November 8
+
+52: While loops: Setting a flag
+
+While_loops_Setting_a_Flag.py
+
+53: Classes
+
+Classes.py
+
+54: Classes: Starting to build the structure
+
+Classes_Starting_to_build_the_structure.py
+
+55: Classes: A bit of housekeeping
+
+Classes_a_bit_of_housekeeping.py
+
+                        November 9
+
+56: Classes: Creating an instance
+
+Classes_Creating_an_instance.py
+
+57: Classes: A little more complexity
+
+Classes_Adding_Complexity_with_multiple_attributes.py
+
+58: Classes: Getting info out of instances
+
+Classes_Retrieving_Information_from_Instances.py
+
+59: Classes: Building functions into them
+
+Classes_Adding_methods_to_classes.py
+
+                      November 10
+
+60: Classes: Coding a method
+
+Classes_Coding_a_method.py
+
+61: Classes: Changing an attribute's value
+
+Class_Changing_an_Attribute_Value.py
+
+62: Data files
+
+Data_Files.py
+
+63: Data files: Storing data
+
+Data_Files_Storing_Data.py
+
+                        November 11
+
+64: Data files: Retrieving data
+
+Data_Files_Retrieving_Data.py
+
+65: Data files: Appending data
+
+Data_Files_Appending_Data.py
+
+66: Modules
+
+Modules.py
+
+67: CSV files
+
+CSV_Files.py
+
+                          November 12
+
+68: CSV files: Reading them
+
+CSV_Files_reading_them.py
+
+69: CSV files: Picking information out of them
+
+CSV_FIles_Picking_Info_Out_of_Them.py
+
+70: CSV files: Loading information into them. Part 1
+
+CSV_Files_Loading_Info_into_them_P1.py
+
+71: CSV files: Loading information into them. Part 2
+
+CSV_Files_Loading_Info_into_them_P2.py
+
+                          November 13
+
+72: CSV files: Loading information into them. Part 3
+
+CSV_Files_Loading_Info_into_them_P3.py
+
+73: CSV files: Appending rows to them
+
+CSV_Files_Appending_Rows_to_them.py
+
+74: How to save a Python list or dictionary in a file: JSON
+
+Save_A_Python_list_dictionary_to_a_JSON.py
+
+75: How to retrieve a Python list or dictionary from a JSON file
+
+Retrieve_A_Python_list_dictionary_from_JSON.py
+
+                            November 14
+
+76: Planning for things to go wrong
+
+Planning_for_things_to_grow_wrong.py
+
+77: A more practical example of exception handling
+
+A_more_practical_example_of_exception_handling.py
